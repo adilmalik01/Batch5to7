@@ -75,6 +75,6 @@
 // console.log(num2);
 
 // // const 
-const num3 = 30
-num3 = 50
-console.log(num3);
+// const num3 = 30
+// num3 = 50
+// console.log(num3);
