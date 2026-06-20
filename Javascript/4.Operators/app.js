@@ -55,3 +55,40 @@
 
 // 4.Logical Operators 
 // &&  ||
+
+// let email = "adil@gmail.com"
+// let password = 12345
+
+// // let logic = email === "adil@gmail.com" &&  password === 12345
+// let logic = email === "adil@gmail.com" ||  password === 12345
+// console.log(password !== 22345);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
